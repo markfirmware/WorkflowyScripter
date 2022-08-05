@@ -1,7 +1,7 @@
 # WorkflowyScripter
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/)
-2. Install the main script via this link: [WorkflowyScripter.user.js](https://github.com/markfirmware/WorkflowyScripter/raw/master/Wfs0Scripter.user.js)
+2. Install the main script via this link: [Wfs0WorkflowyScripter.user.js](https://github.com/markfirmware/WorkflowyScripter/raw/master/Wfs0WorkflowyScripter.user.js)
 3. Install other scripts:
 
 [Wfs0Crumbs.user.js](https://github.com/markfirmware/WorkflowyScripter/raw/master/Wfs0Crumbs.user.js)
