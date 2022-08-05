@@ -19,10 +19,10 @@
 // push more
 // use a stub for clientLib entries?
 
-if (window.WfsScripts === undefined) {
-    window.WfsScripts = []
+if (window.Wfs0Scripts === undefined) {
+    window.Wfs0Scripts = []
 }
-window.WfsScripts.push(wfsApi => {
+window.Wfs0Scripts.push(wfsApi => {
     'use strict'
     const { h, openClientWindow, text } = wfsApi
     const client = async (clientLib) => {

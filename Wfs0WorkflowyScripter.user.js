@@ -206,8 +206,8 @@ await (async () => {
         }
         const collectScripts = () => {
             const wfsApi = { crumbs, currentScriptName, h, openClientWindow, q, record, text, WF, WfEvents }
-            if (window.WfsScripts !== undefined) {
-                for (const x of window.WfsScripts) {
+            if (window.Wfs0Scripts !== undefined) {
+                for (const x of window.Wfs0Scripts) {
                     const script = x(wfsApi)
                     scripts.set(script.name, { hyperApp: { view: _ => null }, ...script })
                 }
